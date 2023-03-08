@@ -1,1 +1,0 @@
-First Test repo on the complete ruby on rails developer course by anupriya biju
